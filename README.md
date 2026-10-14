@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+**Try KnowMate AI here:** [Open Live App]https://knowmate-ai-fck2qphgdyybvspytu9sup.streamlit.app/
+
 # KnowMate AI 📚
 
 **An AI-powered document question-answering assistant built with Streamlit and Google Gemini.**
