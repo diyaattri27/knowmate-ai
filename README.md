@@ -66,3 +66,17 @@ The goal of KnowMate AI is to make document-based information retrieval easier t
 ## 👨‍💻 Author
 
 Built as an AI engineering portfolio project.
+## 🏗️ How It Works
+
+1. **Document Upload:** The user uploads a document through the Streamlit interface.
+2. **Text Extraction:** Text is extracted from the uploaded document.
+3. **Relevant Context Retrieval:** The application identifies text chunks relevant to the user's question.
+4. **AI Answer Generation:** Google Gemini generates an answer using the retrieved document context and conversation history.
+5. **Grounded Responses:** The assistant aims to answer from the provided document and acknowledges when requested information cannot be found.
+
+## 🔮 Future Improvements
+
+- Add support for more document formats.
+- Improve retrieval accuracy with embedding-based semantic search.
+- Add automated evaluation tests for retrieval and answer quality.
+- Improve source citations and document navigation.
